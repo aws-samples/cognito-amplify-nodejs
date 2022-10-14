@@ -4,7 +4,7 @@ This is a very simple NodeJS + React app to demonstrate how to integrate Amazon 
 To run this demo you need to have Node.JS version 16 or above installed on you computer.
 Download the source code and run:
 
-npm init
+npm install
 npm run dev
 
 Those commands will download the dependencies and start the application locally.
