@@ -6,10 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "@aws-amplify/auth": "^4.6.5",
-    "aws-amplify": "^4.3.34",
+    "@aws-amplify/auth": "latest",
+    "aws-amplify": "5.2.5",
     "next": "latest",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
